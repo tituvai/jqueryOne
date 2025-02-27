@@ -1,0 +1,196 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.headertext img{
+    width: 100%;
+}
+.headerimages img{
+    width: 100%;
+}
+
+
+
+
+.bannertext{
+    padding: 20px;
+    background: #0040ff;
+    color: #fff;
+    border-radius: 10px;
+    margin: 10px 0;
+}
+.bannertext p{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 150%;
+}
+.bannerimages{
+    padding: 20px;
+    background: #0040ff;
+    color: #fff;
+    border-radius: 10px;
+    margin: 10px 0;
+}
+.bannerimages p{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 150%;
+}
+
+button{
+    padding: 10px 30px;
+    background: #00bfff;
+    border: none;
+    font-size: 20px;
+    font-weight: 500;
+    color: #fff;
+    text-transform: uppercase;
+    border-radius: 5px;
+    margin-top: 50px;
+}
+
+
+
+
+
+.serviceText{
+    padding: 20px;
+    background: #0040ff;
+    color: #fff;
+    border-radius: 10px;
+    margin: 10px 0;
+}
+.serviceText p{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 150%;
+}
+
+.serviceImages{
+    padding: 20px;
+    background: #0040ff;
+    color: #fff;
+    border-radius: 10px;
+    margin: 10px 0;
+}
+.serviceImages p{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 150%;
+}
+
+
+/* About Part Start */
+.aboutText{
+    padding: 20px;
+    background: #0040ff;
+    color: #fff;
+    border-radius: 10px;
+    margin: 10px 0;
+}
+.aboutText h3{
+    font-size: 25px;
+    font-weight: 700;
+    padding: 10px 0;
+}
+.aboutText p{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 150%;
+}
+
+
+.aboutTexts{
+    padding: 20px;
+    background: #40ff00;
+    color: #0000ff;
+    border-radius: 10px;
+    margin: 10px 0;
+}
+.aboutTexts h3{
+    font-size: 25px;
+    font-weight: 700;
+    padding: 10px 0;
+}
+.aboutTexts p{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 150%;
+}
+
+
+.aboutImages{
+    padding: 20px;
+    background: #0040ff;
+    color: #fff;
+    border-radius: 10px;
+    margin: 10px 0;
+}
+.aboutImages h3{
+    font-size: 25px;
+    font-weight: 700;
+    padding: 10px 0;
+}
+.aboutImages p{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 150%;
+}
+
+.add{
+    background: #00ffbf;
+    color: #bf00ff;
+}
+
+
+
+/* Coundup Part Start */
+
+.downFlex{
+    justify-content: space-around;
+}
+
+.coundUp{
+   padding: 15px 30px;
+    background: #40ff00;
+    text-align: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.coundUp h3{
+   font-size: 30px;
+   font-weight: 700;
+   color: #fff; 
+    
+}
+.coundUp h4{
+    font-size: 30px;
+    font-weight: 700;
+    color: #fff; 
+     
+ }
+/* Coundup Part End */
+
+
+/* coundDown Part Start */
+
+
+.down{
+    padding: 15px 30px;
+    background: #40ff00;
+    text-align: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.down h3{
+    font-size: 30px;
+    font-weight: 700;
+    color: #fff; 
+}
+.down h4{
+    font-size: 30px;
+    font-weight: 700;
+    color: #fff; 
+}
+/* coundDown Part End */
