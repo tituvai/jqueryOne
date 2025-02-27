@@ -147,6 +147,10 @@ button{
 
 /* Coundup Part Start */
 
+
+#coundPart{
+    padding-top: 50px;
+}
 .downFlex{
     justify-content: space-around;
 }
@@ -178,7 +182,7 @@ button{
 
 .down{
     padding: 15px 30px;
-    background: #40ff00;
+    background: #800000;
     text-align: center;
     align-items: center;
     margin-bottom: 10px;
@@ -193,4 +197,5 @@ button{
     font-weight: 700;
     color: #fff; 
 }
+
 /* coundDown Part End */
